@@ -1,0 +1,18 @@
+body {
+    color: rgb(124, 127, 129);
+}
+h1 {
+    color: rgb(88, 0, 18);
+border: 2px solid rgb(219, 134, 151);
+background-color: rgb(219, 125, 144);
+font-size:xx-large;
+}
+a {
+    color: rgb(54, 197, 11);
+    background-color: blanchedalmond;
+}
+div {
+    color: rgb(219, 162, 64);
+    background-color: beige;
+    font-size: larger;
+}
